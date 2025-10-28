@@ -35,22 +35,22 @@ Criar uma página pessoal em HTML utilizando a estrutura básica e as principais
 - [x] Adicionar tag `<p>` com o texto "GitHub: " seguido de um `<span>` ou link para seu perfil
 
 ### 5. Seção de Estudos Atuais
-- [ ] Criar uma `<div>` com identificação para estudos atuais
-- [ ] Adicionar tag `<h3>` com o título "O que estou estudando atualmente"
-- [ ] Adicionar tags `<p>` descrevendo o curso e disciplinas que está cursando
-- [ ] Opcional: Usar tags `<h4>`, `<h5>` ou `<h6>` para subtítulos de diferentes disciplinas
+- [x] Criar uma `<div>` com identificação para estudos atuais
+- [x] Adicionar tag `<h3>` com o título "O que estou estudando atualmente"
+- [x] Adicionar tags `<p>` descrevendo o curso e disciplinas que está cursando
+- [x] Opcional: Usar tags `<h4>`, `<h5>` ou `<h6>` para subtítulos de diferentes disciplinas
 
 ### 6. Seção de Tecnologias Conhecidas
-- [ ] Criar uma `<div>` com identificação para tecnologias conhecidas
-- [ ] Adicionar tag `<h3>` com o título "Tecnologias que já conheço"
-- [ ] Adicionar tags `<p>` listando as tecnologias de desenvolvimento de aplicativos
-- [ ] Opcional: Usar `<span>` para destacar nomes de tecnologias específicas
+- [x] Criar uma `<div>` com identificação para tecnologias conhecidas
+- [x] Adicionar tag `<h3>` com o título "Tecnologias que já conheço"
+- [x] Adicionar tags `<p>` listando as tecnologias de desenvolvimento de aplicativos
+- [x] Opcional: Usar `<span>` para destacar nomes de tecnologias específicas
 
 ### 7. Revisão Final
-- [ ] Verificar se todas as tags foram fechadas corretamente
-- [ ] Verificar se a indentação está organizada e legível
-- [ ] Abrir o arquivo `index.html` no navegador para visualizar o resultado
-- [ ] Validar se todo o conteúdo está sendo exibido corretamente
+- [x] Verificar se todas as tags foram fechadas corretamente
+- [x] Verificar se a indentação está organizada e legível
+- [x] Abrir o arquivo `index.html` no navegador para visualizar o resultado
+- [x] Validar se todo o conteúdo está sendo exibido corretamente
 
 ## Exemplo de Tags Utilizadas
 - **Estrutura**: `<!DOCTYPE>`, `<html>`, `<head>`, `<body>`
