@@ -21,6 +21,13 @@ h2{
     color: #2c3e50;
     text-align: center;
 }
+
+.contato-title{
+    text-align: center; /* text-align diferente (right) */
+    color: #c0392b;    /* nova cor (vermelho) */
+    font-size: 22px;   /* mais um tamanho de fonte */
+}
+
 h3{
     font-size: 24px;
     color: #34495e;
@@ -66,4 +73,36 @@ div li {
 .link-social a {
     text-decoration: none;
     color: #6e2c94;
+}
+
+.container{
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.secao-card{
+    background: #f7fbfc;
+    border: 1px solid #e6f0f3;
+    border-radius: 8px;
+    padding: 16px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.03);
+    transition: transform 0.18s ease, box-shadow 0.18s ease;
+}
+
+.secao-card:hover{
+    transform: translateY(-4px);
+    box-shadow: 0 10px 24px rgba(0,0,0,0.06);
+}
+
+.foto{
+    float: right;
+    width: 50px;
+    height: auto;
+    border-radius: 8px;
+    margin-left: 16px;
+    margin-bottom: 8px;
 }
